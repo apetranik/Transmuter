@@ -1,0 +1,9 @@
+name: Transmuter
+author: Aliya
+main: com.javaminecraft.Transmuter
+commands:
+    change:
+        description: Transmute one inventory material to another
+    undo:
+        description: undos change action
+version: 1.0
